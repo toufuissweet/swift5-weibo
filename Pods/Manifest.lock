@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.2)
+  - BBSwiftUIKit (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BBSwiftUIKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BBSwiftUIKit
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  BBSwiftUIKit: 4cff8ce7d7dabaa2a161b6435323bfae9eb14fed
+
+PODFILE CHECKSUM: 71dc27392a35ce566fa55669325e8352cec2141e
+
+COCOAPODS: 1.10.0
